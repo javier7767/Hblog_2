@@ -1,17 +1,18 @@
 body{
-    color: purple;
+    color: black;
     text-align:center;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Courier New', Courier, monospace;
     font-size:24px;
     margin:0;
     padding:0
 }
 
 #cabecera{
-    background: purple;
+    background: green;
     box-shadow:0 2px 40px 0 rgba(0,0,0,.5);
     color: yellow;font-weight:1200;
-    margin:20px;padding:.5em
+    margin:0px;
+    padding:.5em
     
 }
 
